@@ -1,7 +1,13 @@
 # Heart-Disease-Prediction
 
 Tools & Technologies:         
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Google Colab/jupyter Notebook
+• Python 
+• Pandas 
+• NumPy 
+• Matplotlib 
+• Seaborn
+• Scikit-learn 
+• Google Colab/jupyter Notebook
 
 
 Task:
